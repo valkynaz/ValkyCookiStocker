@@ -18,7 +18,7 @@
 		// Make regular profit reports
 		var stockerActivityReport = true
 			// How often to make regular reports in ms (one hour by default)
-			var stockerActivityReportFrequency = 1000 * 60 * 60
+			var stockerActivityReportFrequency = 1000 * 60 * 15
 
 		// Make game notifications fade away on their own
 		var stockerFastNotifications = false
